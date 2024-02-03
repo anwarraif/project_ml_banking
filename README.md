@@ -58,6 +58,8 @@ The evaluation of the models is conducted using metrics such as confusion matrix
     Learning curve Naive Bayes
     Learning curve Support Vector Machine (SVM)
 
+The dataset : https://www.kaggle.com/datasets/anwar301197/banking-dataset-deposit
+using for tableau and the projects
 ## Requirements :
 pandas: 1.5.3
 numpy: 1.24.3
